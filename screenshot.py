@@ -97,7 +97,7 @@ if __name__ == '__main__':
     url = 'http://www.amazon.es/gp/product/B07NR6PQ6J'
 
     # 1. download html
-    # download_html_of_webpage(url)
+    download_html_of_webpage(url)
 
     # take a screenshot
     render_screenshots_locally()
